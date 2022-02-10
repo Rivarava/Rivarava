@@ -6,7 +6,9 @@
 
 Wasup 
 
-My name is Tshepo, dopest IT Recruiter you ever meet Danko!
+My name is Tshepo Motshegoa, thee dopest IT Recruiter you will ever meet!
+
+Danko!
 <!---
 Rivarava/Rivarava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
